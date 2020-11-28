@@ -4,7 +4,7 @@
 
 Hi, I'm César Rivas, a front-end web developer from Venezuela.
 
-[//]: # - 🔭 I’m currently working on [Anincubator](https://anincubator.com/)
+<!--- # - 🔭 I’m currently working on [Anincubator](https://anincubator.com/) -->
 - 🌱 I’m currently learning Typescript & NextJS & GraphQL
 
 **Languages and Tools:**  
